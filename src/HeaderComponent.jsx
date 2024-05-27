@@ -7,7 +7,6 @@ const HeaderComponent = ({ score, bestScore }) => {
           Get points by clicking on an image but don&#39;t click on any more than
           once!
         </p>
-        &gt;
       </div>
       <div className="score-board">
         <p>

@@ -4,7 +4,7 @@ Project to create a Memory Card Website using React and Typescript.
 
 From The Odin Project's [curriculum](https://www.theodinproject.com/lessons/react-new-memory-card).
 
-🔗 **Live preview:** [here](https://odin-react-cv-application-blond.vercel.app/)
+🔗 **Live preview:** [here](https://odin-react-memory-card-blond.vercel.app/)
 
 ## Built with
 
